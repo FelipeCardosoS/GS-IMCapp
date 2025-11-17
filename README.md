@@ -35,7 +35,7 @@ O aplicativo apresenta:
 - Credenciais corretas direcionam para o Menu.
 
 ### Usuário Inválido
-![Usuário Inválido](IMAGES/Usuario%20Invalido.png)
+![Usuário Inválido](images/UsuarioInvalido.png)
 
 ### 2. Tela de Menu
 - Acesso ao cálculo de IMC  
@@ -43,7 +43,7 @@ O aplicativo apresenta:
 - Botão para voltar ao Login
 
 ### Tela Inicial (Login)
-![Tela Inicial](IMAGES/Tela%20Inicial.png)
+![Tela Inicial](images/TelaInicial.png)
 
 ### 3. Tela de Cálculo do IMC
 - Campos para entrada de nome, peso e altura  
@@ -51,15 +51,14 @@ O aplicativo apresenta:
 - Botão para retornar ao Menu
 
 ### Tela de IMC
-![Tela IMC](IMAGES/Tela%20IMC.png)
-
+![Tela IMC](images/TelaIMC.png)
 
 ### 4. Tela da Equipe
 - Exibe os nomes dos alunos participantes  
 - Botão de retorno ao Menu
 
 ### Tela da Equipe
-![Tela Equipe](IMAGES/Tela%20Equipe.png)
+![Tela Equipe](images/TelaEquipe.png)
 
 ---
 
