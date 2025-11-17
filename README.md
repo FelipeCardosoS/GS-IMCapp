@@ -10,8 +10,6 @@ Este projeto foi desenvolvido como parte da GS 2 – 2025 – 3SIS – 2º Semes
 - Felipe Cardoso - RM 99062
 - Carlos Augusto — RM 98456
 
-(Substituir nomes e RMs antes da entrega.)
-
 ---
 
 ## Sobre o Projeto
